@@ -1,0 +1,18 @@
+%% fgm_jno_I3_2018302ss_r1s_v02.sts
+% OBJECT: HEADER
+%   COMMENT: ...
+J.E.P. CONNERNEY (SRC/NASA/GSFC).
+               2018-302T16:41:08.383 to 2018-302T20:58:14.348
+                  pj16aX
+                  DATE      =  Fri Jan 24 13:15:19 2020
+                  CMD_LINE  =  -odl -sc -jupiter -ss -dz time dday ob_b posn
+               2018-302T20:58:16.364 to 2018-303T00:00:00.335
+                  pj16bY
+                  DATE      =  Fri Jan 24 15:52:32 2020
+                  CMD_LINE  =  -odl -sc -jupiter -ss -dz time dday ob_b posn
+               2018-303T00:00:00.350 to 2018-303T03:12:06.320
+                  pj16bY
+                  DATE      =  Fri Jan 24 16:16:15 2020
+                  CMD_LINE  =  -odl -sc -jupiter -ss -dz time dday ob_b posn
+                  
+%% 
